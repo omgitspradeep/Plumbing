@@ -13,6 +13,6 @@ you're here, and we hope you find Carpentry as exciting, fun, and useful as we d
 
 Authors:
 --------
-    #. PRADEEP KHANAL
     #. ASHISH LAMICHHANE
+    #. PRADEEP KHANAL
 
